@@ -12,11 +12,12 @@ The data is saved as a spreadsheet in the CSV format, in two files.
 
 The easiest way to view the data is to view the file [here](https://github.com/boysvswomen/trans-athlete-polling-usa/blob/main/polling_data_evaluated.csv) on github. Use the horizontal scroll bar to scroll right and see the data.
 
-- **polling_data.csv** [right-click -> *Save As* to download](https://raw.githubusercontent.com/boysvswomen/trans-athlete-polling-usa/main/polling_data.csv) This file contains formulas which you will need to allow your spreadsheet editor to evaluate in order to see all of the data.
-- **polling_data_evaluated.csv** [right-click -> *Save As* to download](https://raw.githubusercontent.com/boysvswomen/trans-athlete-polling-usa/main/polling_data_evaluated.csv) In this file, the formulas have been evaluated (ie: there are no formulas).
+- **polling_data.csv** This file contains formulas which you will need to allow your spreadsheet editor to evaluate in order to see all of the data.
+  - [To download polling_data.csv: follow this link, right-click anywhere on the page -> *Save As*](https://raw.githubusercontent.com/boysvswomen/trans-athlete-polling-usa/main/polling_data.csv)
+- **polling_data_evaluated.csv** In this file, the formulas have been evaluated (ie: there are no formulas).
+  - [To download polling_data_evaluated.csv: follow this link, right-click anywhere on the page -> *Save As*](https://raw.githubusercontent.com/boysvswomen/trans-athlete-polling-usa/main/polling_data_evaluated.csv)
 
 ## Columns ##
-
 
 These first columns are self explanatory:
 
