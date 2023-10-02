@@ -66,3 +66,5 @@ These polls had incomplete information when last checked. As time passes, better
 - https://www.commondreams.org/views/2022/09/08/debates-about-trans-athletes-and-competition-where-attention-trans-men
   - The data is incomplete, and the author of the article has not responded with more information: https://twitter.com/boysvswomen/status/1656308786523414530?s=20
 - Crosstabs for all of the Rasmussen polls are behind a paywall (assuming they exist).
+- https://www.thecentersquare.com/national/article_d92e61d6-4184-11ee-b811-8f28243a04e6.html
+  - The data on Republicans is in complete (see note), and does not match what is in the graphic.
