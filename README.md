@@ -68,3 +68,16 @@ These polls had incomplete information when last checked. As time passes, better
 - Crosstabs for all of the Rasmussen polls are behind a paywall (assuming they exist).
 - https://www.thecentersquare.com/national/article_d92e61d6-4184-11ee-b811-8f28243a04e6.html
   - The data on Republicans is in complete (see note), and does not match what is in the graphic.
+
+# Other Polling #
+
+**SurveyUSA/Women's Declaration International USA**
+
+1,262 Registered voters were asked: 
+
+> Most of our questions today are about women and girls facing specific situations. In all questions, we will use the words "male" and "female" to describe each person's biological sex.
+> Think about an all-female high school basketball team. When they play against another school's girls' team, should their opponents be female only? Or female or male, as long as they consider themselves women or girls?
+
+This was not included as it does not mention transgender status, while the other polls do. This is not a criticism of the question, but it does not make for a good comparison with the other polls.
+
+https://www.surveyusa.com/client/PollReport.aspx?g=42574e21-871e-4023-9ef2-d9b5b39f47c8
