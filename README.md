@@ -1,6 +1,6 @@
-# About the BoyVsWomen Trans Athlete Polling List #
+# About the BoysVsWomen Trans Athlete Polling List #
 
-This repo is maintained by [@boyvswomen](https://twitter.com/boysvswomen). The goal is to provide easy access to current and past support or opposition to trans athletes competing in the category with which they identify (as opposed to the category of their sex).
+This repo is maintained by [@boysvswomen](https://twitter.com/boysvswomen). The goal is to provide easy access to current and past support or opposition to trans athletes competing in the category with which they identify (as opposed to the category of their sex).
 
 This list includes polling with many different questions and answers, so support or opposition should be understood broadly, and not, for example, as support or opposition for a specific bill or policy.
 
